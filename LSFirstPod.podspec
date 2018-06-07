@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name         = "FirstPod"
+  s.name         = "LSFirstPod"
   s.version      = "0.0.1"
-  s.summary      = "FirstPod."
+  s.summary      = "LSFirstPod."
   s.homepage     = "https://github.com/jiaxiaochao/FirstPod"
   s.license      = "MIT"
   s.author             = { "JiaXiaochao" => "578502243@qq.com" }
